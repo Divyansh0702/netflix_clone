@@ -119,7 +119,6 @@ body{
 }
 
 nav{
-    border: 2px solid red;
     display: flex;
     max-width: 80vw;
     align-items: center;
@@ -157,7 +156,6 @@ nav img{
 }
 
 .back-img .section-1{
-    border: 2px solid red;
     position: relative;
     display: flex;
     flex-direction: column;
